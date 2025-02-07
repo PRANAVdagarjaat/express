@@ -7,6 +7,8 @@ ESP32 is a series of low-cost, low-power system on a chip microcontrollers with 
 * [Home](https://registry.platformio.org/platforms/platformio/espressif32) (home page in the PlatformIO Registry)
 * [Documentation](https://docs.platformio.org/page/platforms/espressif32.html) (advanced usage, packages, boards, frameworks, etc.)
 
+* # Pranav Kumar
+
 # Usage
 
 1. [Install PlatformIO](https://platformio.org)
